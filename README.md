@@ -2,6 +2,8 @@
 
 A responsive construction and supply website built with React, TypeScript and Vite, with an Express enquiry API. The design uses the supplied Rayoni logo, warm white, charcoal and gold. All company facts come from the supplied brief; missing facts are explicitly pending.
 
+Live Demo: https://rayoni.vercel.app
+
 ## Run locally
 
 Requires Node.js 22.12+ (tested on Node 24).
